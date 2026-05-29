@@ -1,0 +1,7 @@
+videos/
+venv/
+log/
+
+.DS_Store
+
+.env
